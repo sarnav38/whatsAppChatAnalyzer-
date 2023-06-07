@@ -1,0 +1,82 @@
+footer{
+visibility: hidden;
+}
+/*header class color*/
+.css-1avcm0n{
+background: rgb(61 187 153 / 50%);
+}
+
+header button{
+visibility: hidden;
+}
+.css-1y4p8pa{
+padding-top: 2.5rem;
+}
+/*side bar class */
+.css-1cypcdb{
+background-color: rgb(66 19 73);
+}
+
+/* side bar title class */
+.css-k7vsyb h1{
+color: rgb(65 223 78);
+}
+
+/* side bar label class*/
+.css-1yy6isu p {
+color: rgb(65 223 78);
+padding-left: 0.5rem;
+}
+
+/*drag label class*/
+.css-1fttcpj span {
+color: aqua;
+}
+
+/* limit label class */
+.css-1fttcpj small{
+color: aqua;
+}
+
+/* button*/
+.css-1oyhl2h button{
+background-color: rgb(77 74 119);
+border: 2px solid rgb(230, 234, 241);
+border-radius: 0.65rem;
+font-weight: bolder;
+}
+
+.css-1oyhl2h button:hover{
+border-color: rgb(14, 17, 23);
+color: rgb(14, 17, 23);
+background-color: rgb(152 165 41);
+}
+
+.css-pmxsec{
+background-color: darkred;
+}
+
+.css-pmxsec section{
+background-color: brown;
+}
+a{
+visibility: hidden;
+}
+
+h3{
+font-size: calc(1.1rem + .5vw);
+}
+
+/* show analysis button*/
+.css-1vtvmlg button{
+background-color: rgb(77 74 119);
+border: 2px solid rgb(230, 234, 241);
+border-radius: 0.65rem;
+font-weight: bolder;
+}
+
+.css-1vtvmlg button:hover{
+border-color: rgb(14, 17, 23);
+color: rgb(14, 17, 23);
+background-color: rgb(152 165 41);
+}
