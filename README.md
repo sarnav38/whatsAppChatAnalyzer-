@@ -7,15 +7,16 @@
 # Screenshot
 ## Select overall from select box to analyze all group contacts chat
 
-![App Screenshot](https://via.placeholder.com/400x50?text=App+Screenshot+Here) ![App Screenshot](https://via.placeholder.com/400x50?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/sarnav38/whatsAppChatAnalyzer-/blob/main/assests/g1.gif) ![App Screenshot](https://github.com/sarnav38/whatsAppChatAnalyzer-/blob/main/assests/g2.gif)
 
-![App Screenshot](https://via.placeholder.com/400x50?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/sarnav38/whatsAppChatAnalyzer-/blob/main/assests/g3.gif)
+
 
 ## Select one contact from select box to analyze a single contact chat
 
-![App Screenshot](https://via.placeholder.com/400x50?text=App+Screenshot+Here) ![App Screenshot](https://via.placeholder.com/400x50?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/sarnav38/whatsAppChatAnalyzer-/blob/main/assests/s1.gif) ![App Screenshot](https://github.com/sarnav38/whatsAppChatAnalyzer-/blob/main/assests/s2.gif)
 
-![App Screenshot](https://via.placeholder.com/400x50?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/sarnav38/whatsAppChatAnalyzer-/blob/main/assests/s3.gif)
 
 ## Author
 
