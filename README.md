@@ -1,5 +1,5 @@
 # WhatsAppChatAnalyzer
-[WhatsApp Chats ANalyzing](https://whatsapchatanz.streamlit.app/) web app. Upload Group chat or single person chat and analyze and visuzile Statistics
+Go to [WhatsApp Chats ANalyzing](https://whatsapchatanz.streamlit.app/) web app. Upload Group chat or single person chat to analyze and visuzile user's chat Statistics
 
 # Usage
 1. Download chat text file from whatsapp and upload to analyze and visuulize chats.
